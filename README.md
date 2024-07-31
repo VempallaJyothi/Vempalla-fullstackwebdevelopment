@@ -1,1 +1,0 @@
-# Vempalla-fullstackwebdevelopment
